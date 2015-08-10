@@ -5,7 +5,7 @@ interface
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, StdCtrls;
-
+//qwerty12345
 type
   TForm1 = class(TForm)
     ComboBox1: TComboBox;
